@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alauddin-AlAzad">
-    <img src="https://komarev.com/ghpvc/?username=Alauddin-AlAzad&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Alauddin-AlAzad/count.svg" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/itzalauddinazad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alauddin_Al--Azad-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
   <a href="https://www.linkedin.com/in/itzalauddinazad/">
     <img src="https://img.shields.io/badge/LinkedIn-Alauddin_Al--Azad-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
