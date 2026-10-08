@@ -1,15 +1,15 @@
+<h1 align="center">Hi there, I'm Alauddin Al Azad 👋</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alauddin-AlAzad/Alauddin-AlAzad/main/header.svg" alt="Alauddin's Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+Web+Developer;AI+%26+Multimodal+Researcher;CSE+Student+%40+DIU+(2023-2026)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Alauddin-AlAzad/count.svg" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/itzalauddinazad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alauddin_Al--Azad-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alauddin_Al--Azad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-  <a href="https://www.linkedin.com/in/itzalauddinazad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alauddin_Al--Azad-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:alauddin23105101415@diu.edu.bd">
+    <img src="https://img.shields.io/badge/Email-DIU_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
