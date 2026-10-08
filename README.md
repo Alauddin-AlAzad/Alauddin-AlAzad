@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/itzalauddinazad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alauddin_Al--Azad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alauddin23105101415@diu.edu.bd">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alauddin23105101415@diu.edu.bd" target="_blank">
     <img src="https://img.shields.io/badge/Email-DIU_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
