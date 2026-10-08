@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Alauddin's Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Alauddin-AlAzad/Alauddin-AlAzad/main/header.svg" alt="Alauddin's Banner" width="100%" />
 </p>
 
 <p align="center">
